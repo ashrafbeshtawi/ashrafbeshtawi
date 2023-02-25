@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ashrafbeshtawi
 - 👀 I’m interested in Fontend/Backend web development
-- 🌱 I’m currently learning React.js / Three.js / Node.js / Numpy / Pandas  ..
+- 🌱 I’m currently learning Vue.js, Symfony, PHP, Angular & much more ..
 
 - 📫 How to reach me beshtawi.ashraf@gmail.com
 
