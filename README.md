@@ -1,4 +1,4 @@
-# 🚀 Learn ALL the Tech-stacks you need to build ANYTHING your heart desires ❤️‍🔥
+## 🚀 Learn ALL the Tech-stacks you need to build ANYTHING your heart desires ❤️‍🔥
 
 ## 🌐 My Portfolio
 Check out my work and projects here:  
