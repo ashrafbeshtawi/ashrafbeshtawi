@@ -2,7 +2,7 @@
 
 ## 🌐 My Portfolio
 Check out my work and projects here:  
-👉 [https://ashrafbeshtawi.github.io/](https://ashrafbeshtawi.github.io/)
+[https://ashrafbeshtawi.github.io/](https://ashrafbeshtawi.github.io/)
 
 ## 📫 How to reach me
 beshtawi.ashraf@gmail.com
