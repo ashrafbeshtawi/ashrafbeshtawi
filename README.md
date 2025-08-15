@@ -37,19 +37,10 @@ Check out my diverse range of projects and contributions that showcase my skills
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,python,php,typescript,html,css,react,vue,symfony,flask,nodejs,git,github,docker,aws" />
+    <img src="https://skillicons.dev/icons?i=js,python,php,typescript,html,css,react,vue,symfony,nodejs,git,github,docker" />
   </a>
 </p>
 
-
-
-
-
-## ✨ A Glimpse of My Work Ethic
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Developer.gif" width="400" height="300"/>
-</p>
 
 
 
