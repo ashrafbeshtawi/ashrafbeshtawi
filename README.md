@@ -4,6 +4,26 @@
 
 I thrive on turning innovative ideas into robust and scalable applications. My journey in tech is fueled by curiosity and a relentless pursuit of knowledge, constantly exploring new horizons in software development.
 
+<p align="center">
+  <a href="https://github.com/bpnace">
+    <img
+      src="https://komarev.com/ghpvc/?username=bpnace&label=Profile%20Views&color=ff4c6b&style=flat-square"
+      alt="Profile views"
+    />
+  </a>
+  <a href="https://github.com/bpnace?tab=repositories">
+    <img
+      src="https://badgen.net/badge/Repos/15/purple"
+      alt="Repositories count"
+    />
+  </a>
+  <a href="https://github.com/bpnace?tab=followers">
+    <img
+      src="https://badgen.net/badge/Followers/10/green"
+      alt="Followers"
+    />
+  </a>
+</p>
 ## 🌐 My Portfolio
 
 Check out my diverse range of projects and contributions that showcase my skills and dedication:
