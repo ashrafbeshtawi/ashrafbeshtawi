@@ -7,17 +7,17 @@ I thrive on turning innovative ideas into robust and scalable applications. My j
 <p align="center">
   <a href="https://github.com/bpnace">
     <img
-      src="https://komarev.com/ghpvc/?username=bpnace&label=Profile%20Views&color=ff4c6b&style=flat-square"
+      src="https://komarev.com/ghpvc/?username=ashrafbeshtawi&label=Profile%20Views&color=ff4c6b&style=flat-square"
       alt="Profile views"
     />
   </a>
-  <a href="https://github.com/bpnace?tab=repositories">
+  <a href="https://github.com/ashrafbeshtawi?tab=repositories">
     <img
       src="https://badgen.net/badge/Repos/15/purple"
       alt="Repositories count"
     />
   </a>
-  <a href="https://github.com/bpnace?tab=followers">
+  <a href="https://github.com/ashrafbeshtawi?tab=followers">
     <img
       src="https://badgen.net/badge/Followers/10/green"
       alt="Followers"
