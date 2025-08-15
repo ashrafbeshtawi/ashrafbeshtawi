@@ -24,26 +24,6 @@ I thrive on turning innovative ideas into robust and scalable applications. My j
     />
   </a>
 </p>
-## 🌐 My Portfolio
-
-Check out my diverse range of projects and contributions that showcase my skills and dedication:
-
-[https://ashrafbeshtawi.github.io/](https://ashrafbeshtawi.github.io/)
-
-
-
-
-## 🛠️ Technologies & Tools
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,python,php,typescript,html,css,react,vue,symfony,nodejs,git,github,docker" />
-  </a>
-</p>
-
-
-
-
 
 ## 📫 How to reach me
 
@@ -56,6 +36,13 @@ Feel free to connect with me and explore my work:
 
 
 
+## 🛠️ Technologies & Tools
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,python,php,typescript,html,css,react,vue,symfony,nodejs,git,github,docker" />
+  </a>
+</p>
 
 
 ## 📈 GitHub Stats
