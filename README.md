@@ -35,13 +35,21 @@ Feel free to connect with me and explore my work:
 [![Portfolio](https://img.shields.io/badge/Portfolio-A435F0?style=for-the-badge&logo=globe&logoColor=white)](https://ashrafbeshtawi.github.io/)
 
 
-
 ## 🛠️ Technologies & Tools
 
+### 🌐 Frontend
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,python,php,typescript,html,css,react,vue,symfony,nodejs,git,github,docker" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,vue" />
+</p>
+
+### ⚙️ Backend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=php,symfony,nodejs,python" />
+</p>
+
+### 🧰 DevOps & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,git,github" />
 </p>
 
 
@@ -51,6 +59,3 @@ Feel free to connect with me and explore my work:
   <img src="https://github-readme-stats.vercel.app/api?username=ashrafbeshtawi&show_icons=true&theme=radical" alt="Ashraf Beshtawi's GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashrafbeshtawi&theme=radical" alt="Ashraf Beshtawi's GitHub Streak"/>
 </p>
-
-
-
