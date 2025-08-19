@@ -39,12 +39,12 @@ Feel free to connect with me and explore my work:
 
 ### 🌐 Frontend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,vue" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,vue,nextjs" />
 </p>
 
 ### ⚙️ Backend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=php,symfony,nodejs,python" />
+  <img src="https://skillicons.dev/icons?i=php,symfony,nodejs,python,postgresql" />
 </p>
 
 ### 🧰 DevOps & Tools
