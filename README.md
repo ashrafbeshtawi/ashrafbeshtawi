@@ -11,18 +11,6 @@ I thrive on turning innovative ideas into robust and scalable applications. My j
       alt="Profile views"
     />
   </a>
-  <a href="https://github.com/ashrafbeshtawi?tab=repositories">
-    <img
-      src="https://badgen.net/badge/Repos/15/purple"
-      alt="Repositories count"
-    />
-  </a>
-  <a href="https://github.com/ashrafbeshtawi?tab=followers">
-    <img
-      src="https://badgen.net/badge/Followers/10/green"
-      alt="Followers"
-    />
-  </a>
 </p>
 
 ## 📫 How to reach me
